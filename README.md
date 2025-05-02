@@ -1,4 +1,4 @@
-# Spark ML - Powerlifting Regression
+# Spark ML - Linear Regression
 
 This project uses Apache Spark and MLlib to build a linear regression model predicting `TotalKg` in powerlifting based on various athlete attributes.
 
